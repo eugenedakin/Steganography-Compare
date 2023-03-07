@@ -17,8 +17,8 @@ Screen Grab:
 Instructions:
 
 Run the program in Xojo 2022 r1.1
-- Press the Load Original button and load the original (300bx300b-72dpi.png) picture
-- Press the Load Blended Pic button and load the picture that may have been altered through steganography
-- Press Perform Analysis button to compare the two pictures
+- Press the Load Original button and load the original (300bx300b-72dpi.png) picture.
+- Press the Load Blended Pic button and load the picture that may have been altered through steganography.
+- Press Perform Analysis button to compare the two pictures.
 
 An article was written in xDev (xdevmag.com) Issue 20.6 (Nov/Dec 2022) that describes the Xojo code. This is a great journey using pictures to compare pictures which may have been altered through steganography.
